@@ -45,5 +45,6 @@ except Exception as e:
     print()
     sys.exit(1)
 
+#print the generated response to the screen and an empty line for spacing
 print(response.choices[0].message.content)
 print()
