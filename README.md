@@ -42,4 +42,4 @@ This will list all files in the current directory that match the given filename,
 5. Get a free API key from Groq. Go to groq.com, create an account (do not use an outlook email), click "API Keys", click "+ Create API Key", choose a display name and expiration date, continue and copy the generated API key.
 6. Set the API in your Windows System Variables. Press start, type "Environment Variables" and press enter, click "Environment Variables", under user variables click "New...", set the variable name to "GROQ_API_KEY", paste the API key into the variable value field, click ok on everything.
 7. Close command prompt if it is open
-8. Open command prompt and use cmdash as explained above in the Example usage section.
+8. Open command prompt and use cmdash as explained above in the Example usage section. Enjoy!!
