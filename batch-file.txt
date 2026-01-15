@@ -1,0 +1,3 @@
+@echo off
+python C:\paste\your\file\path\here
+
