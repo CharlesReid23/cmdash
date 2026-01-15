@@ -18,3 +18,20 @@ cmdash provides a wide variety of helpful features to Windows command prompt use
 - Support directly from Windows Command Prompt
 - User-friendly interface requiring little to no knowledge of the command prompt
 - Free to run using the extremely powerful groq free tier API
+
+### Example Usage
+A user first needs to follow the setup and installation instructions below.
+Then, in windows command prompt (to open: press start, type "cmd", press enter), a user can use cmdash by typing "cmdash" followed by a prompt.
+
+An example prompt is as follows:
+```cmd
+cmdash how do I search for a file in the current directory by name?
+```
+cmdash will then respond with an answer
+```cmd
+use this command: dir filename
+
+This will list all files in the current directory that match the given filename, filename can be replaced with the name of the file you are searching for, and it also supports wildcards such as * and ? for more complex searches.
+```
+
+### Setup and Installation Instructions
