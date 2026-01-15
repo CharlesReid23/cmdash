@@ -7,7 +7,7 @@ It gives you instant, context‑aware answers to command‑line questions withou
 Ask it anything about Windows CMD commands, syntax, flags, or workflows and it will quickly give you a well-informed useful answer
 
 ### How it Works
-cmdash is built from a fairy simple pipeline
+cmdash uses the following process to answer user questions about the Windows Command Prompt
 - a **batch file** (cmdash.cmd) captures the user prompt and runs a python file
 - The python file constructs the user prompt, generates LLM system instructions, and calls the groq API for a response with the user prompt.
 - The python file then does some error handling and prints the result to the screen (in this case, the windows command line)
