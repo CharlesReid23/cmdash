@@ -34,4 +34,9 @@ use this command: dir filename
 This will list all files in the current directory that match the given filename, filename can be replaced with the name of the file you are searching for, and it also supports wildcards such as * and ? for more complex searches.
 ```
 
-### Setup and Installation Instructions
+### Setup Instructions
+1. Download the main.py file onto your Windows device somewhere on the main system drive (Usually the C: drive)
+2. download the template batch file template.txt
+3. copy and paste the file path for main.py into the template file where it says to insert the file path (replace the old text). Do not edit anything else in the template file.
+4. save the template file in your home folder (C:Users\YourUserName\). Do not put it in a sub-folder.
+5. Get a free API key from Groq. Go to groq.com, create an account (do not use an outlook email), 
