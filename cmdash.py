@@ -3,7 +3,7 @@ import sys
 from groq import Groq
 
 #if the user just types in cmdash have an explanation of how it works
-if len(sys.argv) < 2:
+if len(sys.argv) == 1:
     print('Usage: cmdash <your question here>')
     print('Example: cmdash how do I search files recursively?')
     print()
