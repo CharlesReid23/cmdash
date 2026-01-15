@@ -40,7 +40,7 @@ try:
         ],
         timeout = 5 #seconds
     )
-#comment to try and push again
+
 except Exception as e:
     print(f'Unable to complete request due to {e}')
     print()
