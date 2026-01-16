@@ -39,7 +39,7 @@ This will list all files in the current directory that match the given filename,
 1. This assumes you already have python. If you don't you can install it [HERE](https://www.python.org/downloads/windows/).
 2. Download the cmdash.py file onto your Windows device somewhere on the main system drive (Usually the C: drive)
 3. Download the template batch file "template.txt".
-4. Copy and paste the file path for cmdash.py into the template file where it says to insert the file path (replace the old text). Do not edit anything else in the template file.
+4. Copy and paste the file path for cmdash.py into the template file where it says to insert the file path (replace the old text). Do not edit anything else in the template file. Make sure to keep the %* at the end.
 5. Save the template file in your home folder (C:Users\YourUserName\). Do not put it in a sub-folder. Rename the file to "cmdash.cmd".
 6. Get a free API key from Groq. Go to groq.com, create an account (do not use an outlook email), click "API Keys", click "+ Create API Key", choose a display name and expiration date, continue and copy the generated API key.
 7. Set the API in your Windows System Variables. To do this, press start, type "Environment Variables" and press enter, click "Environment Variables", under user variables click "New...", set the variable name to "GROQ_API_KEY", paste the API key into the variable value field, click ok on everything.

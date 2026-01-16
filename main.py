@@ -10,8 +10,7 @@ if len(sys.argv) == 1:
     sys.exit()
 
 #generate the prompt the user typed
-user_prompt = ' '.join(sys.argv[1:]).strip()
-
+user_prompt = ' '.join(sys.argv[1:])
 #create system instructions to accompany the user prompt
 system_instructions = '''
 You are an expert in Windows Command Prompt (cmd.exe).
