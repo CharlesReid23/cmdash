@@ -41,7 +41,7 @@ This will list all files in the current directory that match the given filename,
 3. Download the template batch file "template.txt".
 4. Copy and paste the file path for main.py into the template file where it says to insert the file path (replace the old text). Do not edit anything else in the template file. Also make sure to keep the %* at the end.
 5. Save the template file in your home folder (C:Users\YourUserName\). Do not put it in a sub-folder. Rename the file to "cmdash.cmd".
-6. Get a free API key from Groq. Go to groq.com, create an account (do not use an outlook email), click "API Keys", click "+ Create API Key", choose a display name and expiration date, continue and copy the generated API key.
+6. Get a free API key from Groq. Go to [groq.com](https://www.groq.com), create an account (do not use an outlook email), click "API Keys", click "+ Create API Key", choose a display name and expiration date, continue and copy the generated API key.
 7. Create a system variable for the API key in your Windows System Variables. To do this, press start, type "Environment Variables" and press enter, click "Environment Variables", under user variables click "New...", set the variable name to "GROQ_API_KEY", paste the API key into the variable value field, click ok on everything.
 8. Close command prompt if it is open.
 9. Wait a few seconds and open command prompt again.
