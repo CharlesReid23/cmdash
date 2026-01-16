@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="558eeb0e-34ff-43e8-9c60-a89d9a9ac164" name="Changes" comment="renamed to template.txt to match the README">
+      <change afterPath="$PROJECT_DIR$/.idea/cli-helper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/template.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CharlesReid23&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CharlesReid23/cmdash&quot;,
+    &quot;accountId&quot;: &quot;ffb7d069-f130-4496-8991-a25e5ddce50b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="37xLD4geXo3yVA5nWXcUEt9F5jf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558eeb0e-34ff-43e8-9c60-a89d9a9ac164" name="Changes" comment="" />
+      <created>1767839653302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767839653302</updated>
+      <workItem from="1767839654368" duration="1513000" />
+      <workItem from="1767841271002" duration="1822000" />
+      <workItem from="1767912959431" duration="501000" />
+      <workItem from="1767913867965" duration="491000" />
+      <workItem from="1767914719709" duration="2157000" />
+      <workItem from="1767928938618" duration="1317000" />
+      <workItem from="1767931034563" duration="960000" />
+      <workItem from="1767935450041" duration="3603000" />
+      <workItem from="1768092930962" duration="1411000" />
+      <workItem from="1768506320476" duration="3902000" />
+      <workItem from="1768518932893" duration="1683000" />
+      <workItem from="1768522557528" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding main.py and the batch file template to the repo">
+      <option name="closed" value="true" />
+      <created>1768510317658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768510317658</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed API Key name and added new comment at the end">
+      <option name="closed" value="true" />
+      <created>1768518325412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768518325412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Renamed to cmdash.py from main.py and changed remote name to main from master">
+      <option name="closed" value="true" />
+      <created>1768518682593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768518682593</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new comment">
+      <option name="closed" value="true" />
+      <created>1768519043496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768519043496</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test push">
+      <option name="closed" value="true" />
+      <created>1768519872194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768519872194</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changing logic to be more intuitive">
+      <option name="closed" value="true" />
+      <created>1768520268081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768520268081</updated>
+    </task>
+    <task id="LOCAL-00007" summary="renamed to template.txt to match the README">
+      <option name="closed" value="true" />
+      <created>1768520342173</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768520342173</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding main.py and the batch file template to the repo" />
+    <MESSAGE value="Changed API Key name and added new comment at the end" />
+    <MESSAGE value="Renamed to cmdash.py from main.py and changed remote name to main from master" />
+    <MESSAGE value="new comment" />
+    <MESSAGE value="test push" />
+    <MESSAGE value="changing logic to be more intuitive" />
+    <MESSAGE value="renamed to template.txt to match the README" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed to template.txt to match the README" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cli_helper$main.coverage" NAME="main Coverage Results" MODIFIED="1767912994264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
