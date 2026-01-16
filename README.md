@@ -36,7 +36,7 @@ This will list all files in the current directory that match the given filename,
 
 ### Setup Instructions
 
-1. This assumes you already have python. If you don't you can install it [HERE](https://www.python.org/downloads/windows/).
+1. This assumes you already have python installed. If you don't you can install it [HERE](https://www.python.org/downloads/windows/).
 2. Download the main.py file onto your Windows device somewhere on the main system drive (Usually the C: drive)
 3. Download the template batch file "template.txt".
 4. Copy and paste the file path for main.py into the template file where it says to insert the file path (replace the old text). Do not edit anything else in the template file. Also make sure to keep the %* at the end.
